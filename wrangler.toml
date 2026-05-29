@@ -1,5 +1,6 @@
 name = "shawon-live-tv"
 compatibility_date = "2024-01-01"
+main = "index.html"
 
-[assets]
-directory = "./"
+[site]
+bucket = "./"
